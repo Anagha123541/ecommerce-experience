@@ -1,0 +1,22 @@
+ 
+
+[
+  {
+    "id": 1,
+    "name": "Rahul",
+    "rating": 5,
+    "comment": "Amazing product quality."
+  },
+  {
+    "id": 2,
+    "name": "Sneha",
+    "rating": 4,
+    "comment": "Looks premium and delivery was fast."
+  },
+  {
+    "id": 3,
+    "name": "Aman",
+    "rating": 5,
+    "comment": "Worth the price."
+  }
+]

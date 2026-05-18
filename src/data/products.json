@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Headphones",
+    "price": 2999,
+    "description": "Good quality headphones",
+    "image": "https://via.placeholder.com/200"
+  },
+  {
+    "id": 2,
+    "title": "Watch",
+    "price": 1999,
+    "description": "Stylish watch",
+    "image": "https://via.placeholder.com/200"
+  }
+]
