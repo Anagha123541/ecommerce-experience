@@ -31,3 +31,5 @@ const ProductDetails = ({ productReviews }) => {
   );
 };
 
+export default ProductDetails;
+
